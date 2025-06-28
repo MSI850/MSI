@@ -1,0 +1,18 @@
+body {background-color: rgb(37, 37, 119);}
+h1 {color: yellow; text-align: center;}
+span{color: greenyellow;}
+p{text-align: center; color: aliceblue; }
+.su{width: 11cm; height: 11cm; border: solid 6px yellow;}
+img{width: 7cm; height: 11cm; border: solid 6px yellow;}
+table, th, td{
+    border: solid 1px rgb(255, 251, 41); 
+}
+thead{
+
+    color: white;
+}
+td{color: aliceblue;text-align: center; background-color: rgba(66, 66, 221, 0.434);}
+table{width: 36cm;}
+h4{color: aliceblue; text-align: center;}
+input{border: solid 1px white;border-radius: 2cm;width: 36cm;height: 1cm;}
+button{border: solid 1px yellow;color: black;background-color: yellow;border-radius: 2cm;width: 7cm;height: 120%;}
